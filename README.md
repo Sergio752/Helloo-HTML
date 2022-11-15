@@ -22,3 +22,4 @@ Aqui nos muestra el codigo del archivo para que funcione, para poder modificar l
 ### Descargar y modificar el codigo paso 4
 Después de seleccionar el icono del lapiz ya podemos modificar los codigos escribiendo o borrando codigos para ejecutar lo que queramos del archivo.
 
+![Captura 5](https://user-images.githubusercontent.com/118000591/201914565-20687324-e846-4432-ab33-ff08d469b03c.PNG)
