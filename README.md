@@ -16,3 +16,9 @@ Seleccionamos el apartado de code y copiamos el codigo del archivo, después hac
 
 ### Descargar y modificar el codigo paso 3
 Aqui nos muestra el codigo del archivo para que funcione, para poder modificar los codigos seleccionamos el icono del lapiz.
+
+![Captura 4](https://user-images.githubusercontent.com/118000591/201914251-86480d4c-ca71-41bc-a4da-3fff46a083ea.PNG)
+
+### Descargar y modificar el codigo paso 4
+Después de seleccionar el icono del lapiz ya podemos modificar los codigos escribiendo o borrando codigos para ejecutar lo que queramos del archivo.
+
