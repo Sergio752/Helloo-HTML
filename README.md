@@ -10,5 +10,9 @@ Vamos al inicio de GitHub y en find a repository buscamos el archivo que queremo
 ![Captura 2](https://user-images.githubusercontent.com/118000591/201912195-9c03465e-3179-431c-beda-0dff2fb6d61b.PNG)
 
 ### Descargar y modificar el codigo paso 2
-Seleccionamos el apartado de code y copiamos el codigo del archivo, después hacemos clic en el archivo Hello-HTML
+Seleccionamos el apartado de code y copiamos el codigo del archivo, después hacemos clic en el archivo Hello HTML.html
 
+![Captura 3](https://user-images.githubusercontent.com/118000591/201913481-5046272e-6951-4e6e-b8e7-4d9f9bfcb168.PNG)
+
+### Descargar y modificar el codigo paso 3
+Aqui nos muestra el codigo del archivo para que funcione, para poder modificar los codigos seleccionamos el icono del lapiz.
